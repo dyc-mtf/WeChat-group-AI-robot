@@ -1,0 +1,10 @@
+openai
+wxauto
+wxauto.msgs
+random
+rapidocr_onnxruntime
+datetime
+shutil
+sys
+traceback
+math
