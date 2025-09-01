@@ -1,0 +1,9 @@
+openai
+wxauto
+random
+rapidocr_onnxruntime
+datetime
+shutil
+sys
+traceback
+math
